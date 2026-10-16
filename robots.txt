@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tgaplumbers.co.za/sitemap.xml
